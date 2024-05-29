@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vaibhav Pimpalkar</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?size=338&ext=jpg&ga=GA1.1.44546679.1716940800&semt=ais_user">
-
+<img src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav89-01&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav89-01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav89-01" alt="vaibhav89-01" /></a> </p>
